@@ -1,0 +1,14 @@
+{
+  "name": "netlify-forms-website",
+  "version": "1.0.0",
+  "description": "A website with Netlify Forms integration",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'",
+    "preview": "npx serve ."
+  },
+  "keywords": ["netlify", "forms", "static-site"],
+  "author": "",
+  "license": "MIT"
+}
